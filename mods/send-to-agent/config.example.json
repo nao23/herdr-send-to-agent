@@ -1,0 +1,5 @@
+{
+  "default-messages": {
+    "hunk": "I left review comments in hunk. Read them with `hunk session comment list --repo {repo} --type user --json` and address them."
+  }
+}

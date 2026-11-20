@@ -1,0 +1,4 @@
+jsconfig.json
+*.d.ts
+# Your own default messages; config.example.json is the shipped example.
+config.json
